@@ -6,7 +6,7 @@
 <p align="center"> My name is Nathan Doan. I live around Seattle, Washington and currently doing my Bachelors at Seattle Pacific University 👨‍🎓. Although I'm only still a student, a lot of my interests lie in developing and messing around with databases. With the rise of AI, I have been very interested in seeing where this all takes us and want to start exploring this field as I exit my educational career! 🤖</p>
 
 <h1 align="center"> 🥇Biggest Project - Gradplanningapp.com</h1>
- <p align="center"> You can see my most recent work under my <b>organizations</b> with a group of other amazing students! </p>
+ <p align="center"> You can see my most recent work under my <b>organizations</b> with a group of other amazing students! At the moment I cannot share the code as a group member would like to have some confidentiality, however you can check out our website!</p>
  <p align="center"> This project aimed to give students an easy way to register for classes in a clean and organized way under one website.</p>
  <p align="center"> 🎯 Personally, I learned a lot about setting up Node and trying to set it up and send API calls to our front page. As a team we had to learn how to setup our SQL database and create the tables and structure as well, which was a long process and took a couple months as we had no prior experience. In the end though, I am proud of our team and the project we made!</p>
  <p align="center"> 
