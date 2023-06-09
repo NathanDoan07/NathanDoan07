@@ -4,7 +4,7 @@
 
 <h2 align="center"> 𝐇i 𝐭𝐡𝐞𝐫𝐞! <h2>
 <p align="center"> My name is Nathan Doan. I live around Seattle, Washington and currently doing my Bachelors at Seattle Pacific University 👨‍🎓. Although I'm only still a student, a lot of my interests lie in developing and messing around with databases. With the rise of AI, I have been very interested in seeing where this all takes us and want to start exploring this field as I exit my educational career! 🤖</p>
-  
+<p align="center"> You can see my most recent work under my organizations with a group of other amazing students! </p>
 <p align="center">Of course coding isn't my entire life! You can find me either playing some video games 👾 or playing on my piano 🎵. </p>
  
 <p align="center"> 
