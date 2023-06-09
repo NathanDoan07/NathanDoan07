@@ -11,7 +11,7 @@
  <p align="center"> 🎯 Personally, I learned a lot about setting up Node and trying to set it up and send API calls to our front page. As a team we had to learn how to setup our SQL database and create the tables and structure as well, which was a long process and took a couple months as we had no prior experience. In the end though, I am proud of our team and the project we made!</p>
  <p align="center"> 
   <hr>
-  🐛 <b>A couple bugs:</b>
+  🐛 <b>A few bugs:</b>
   <li>Searching for courses with no filters doesn't grab all courses in the database, some filters are applied for some reason.</li>
   <li>Some courses are partitioned into the wrong order, ocassionally a prereq course is sequenced before its parent course.</li>
   <li>The profile page is not fully responsive, the flowchart may overlap with it.</li>
