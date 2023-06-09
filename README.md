@@ -52,9 +52,10 @@ Nodemailer, Argon2, Cytoscape, Graphology
 <hr>
 <p align="center">
   <img src="https://img.shields.io/badge/-nathandoan7222@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathandoan7222@gmail.com">
-  <img src="https://img.shields.io/badge/-nathandoan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-doan-314ba1207/"
+  <img src="https://img.shields.io/badge/-nathandoan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-doan-314ba1207/">
  </p>
-  
+
+[Nathan_Doan_Resume.pdf](https://github.com/NathanDoan07/NathanDoan07/files/11709826/Nathan_Doan_Resume.pdf)
 
 
 
